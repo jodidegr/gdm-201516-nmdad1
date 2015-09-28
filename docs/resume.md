@@ -36,7 +36,7 @@ Softwarekennis
 Contactinformatie
 ------
 
-|Jodie De Greef||
+|Jodie De Greef| jodidegr|
 | :-------- | :--: |
 |Klas|  2MMP proDUCE |
 |Email |jodidegr@student.arteveldehs.be|
