@@ -9,8 +9,11 @@ Portfolio
 Werkervaring 
 -----
 
-Ik heb al enkele jaren in de horeca gestaan en in een winkel gewerkt. Nu werk ik sind februari 2015 elke zaterdag bij Proximus. Eigenlijk heeft het niet veel te maken met de richting die ik nu volg, maar ik krijg wel ervaring met klanten en dit is goed voor later. 
-
+| Bedrijf     |    Functie | Van  | Tot |
+| :-------- | --------:| --------:| :--: |
+| AD Delhaize Gooik | Bakkerij |  februari 2012   |  augustus 2012|
+| Volkscafé De Cam     |   Keukenhulp |  augustus 2012  | januari 2015 |
+| Proximus te Ninove    |  administratief medewerker  | januari 2015  | tot op heden |
 
 Kennis webtechnologiën 
 -----
