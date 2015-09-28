@@ -20,13 +20,14 @@ Kennis webtechnologiën
 Softwarekennis
 -----
 
-* Adobe Illustratot
+* Adobe Illustrator
 * Adobe Photoshop
 * Adobe Indesign
 * Adobe After Effects
 * Adobe Premiere Pro
 * Adobe Dreamweaver
 * Final Cut 
+* PhpStorm
 
 
 Contactinformatie
