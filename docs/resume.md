@@ -13,7 +13,7 @@ Werkervaring
 | :-------- | --------:| --------:| :--: |
 | AD Delhaize Gooik | Bakkerij |  februari 2012   |  augustus 2012|
 | Volkscafé De Cam     |   Keukenhulp |  augustus 2012  | januari 2015 |
-| Proximus te Ninove    |  administratief medewerker  | januari 2015  | tot op heden |
+| Proximus te Ninove    |  Administratief medewerker  | januari 2015  | tot op heden |
 
 Kennis webtechnologiën 
 -----
@@ -36,5 +36,7 @@ Softwarekennis
 Contactinformatie
 ------
 
-De Greef Jodie 
-* jodidegr@student.arteveldehs.be
+|Jodie De Greef||
+| :-------- | :--: |
+|Klas|  2MMP proDUCE |
+|Email |jodidegr@student.arteveldehs.be|
