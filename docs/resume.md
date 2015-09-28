@@ -17,8 +17,13 @@ Werkervaring
 
 Kennis webtechnologiën 
 -----
-
-
+| Wat | Kennis | Nog bij leren |
+| :-------- | --------:| --------:| :--: |
+| HTML5 |  Zeer goed  | 
+| CSS3    | Zeer goed | 
+| Javascript    | Matig | X |
+| jQuery | Matig | X |
+| SQL | Zwak |  X |
 
 Softwarekennis
 -----
