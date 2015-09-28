@@ -1,7 +1,7 @@
 Biografie
 ======
 
-Ik ben Jodie De Greef en studeer 2MMP proDUCE aan Arteveldehogeschool te Gent. 
+Ik ben Jodie De Greef en studeer Multimediaproductie aan Arteveldehogeschool te Gent. 
 
 Portfolio
 =======
