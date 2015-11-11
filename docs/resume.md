@@ -1,7 +1,7 @@
 Biografie
 ======
 
-Ik ben Jodie De Greef en studeer Multimediaproductie aan Arteveldehogeschool te Gent. 
+Ik ben Jodie De Greef en studeer Grafimediabeleid aan Arteveldehogeschool te Gent. 
 
 Portfolio
 =======
@@ -43,5 +43,5 @@ Contactinformatie
 
 |Jodie De Greef| jodidegr|
 | :-------- | :--: |
-|Klas|  2MMP proDUCE |
+|Klas|  2GMB |
 |Email |jodidegr@student.arteveldehs.be|
